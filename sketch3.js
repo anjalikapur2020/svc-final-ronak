@@ -32,7 +32,7 @@ diesound=loadSound("die1.mp3")
 gamesound=loadSound("gamemusic.mp3")
 
 
-    o22img = loadImage("assets/o22.png")
+    o22img = loadImage("assets/O22.png")
     winimg = loadImage("win.gif")
 
     playerstandimg = loadAnimation("b4.png", "b4.png", "b4.png", "b4.png")
